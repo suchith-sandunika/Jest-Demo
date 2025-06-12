@@ -1,0 +1,1 @@
+Demo Project to Learn, Jest, Node.js, Prisma, TypeScript and Express
